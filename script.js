@@ -30,7 +30,7 @@ podButton.setAttribute('style','font-size:20')
 topBlock.append(podButton)
 
 
-var getpic = 'https://api.nasa.gov/planetary/apod?api_key=Uv7wsSfQbrbApdlcuaTq6t5H9PrPKvvDP1nnZcQM'
+var getpic = 'https://api.nasa.gov/planetary/apod?api_key=<your-api-key-here>'
 
 
 function picofday(){
